@@ -1,0 +1,5 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-mllib-local_2.11/2.0.1/spark-mllib-local_2.11-2.0.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-parent_2.11/2.0.1/spark-parent_2.11-2.0.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-mllib-local_2.11/2.0.1/spark-mllib-local_2.11-2.0.1.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-mllib-local_2.11/2.0.1/spark-mllib-local_2.11-2.0.1-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-mllib-local_2.11/2.0.1/spark-mllib-local_2.11-2.0.1-javadoc.jar
